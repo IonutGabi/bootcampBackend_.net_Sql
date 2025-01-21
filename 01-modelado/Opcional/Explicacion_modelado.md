@@ -1,6 +1,6 @@
 # Explicación del modelado
 
-Empezando este apartado fui creado las tablas que necesitaba para este caso, que son: **Courses, Authors, Lessons, Categories and SubCategories**.
+Empezando este apartado fui creado las tablas que necesitaba para este caso, que son: **Courses, Authors, Lessons, Categories** y **SubCategories**.
 
 Luego he creado todos los campos necesarios en cada una de las tablas.
 
