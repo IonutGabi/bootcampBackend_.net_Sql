@@ -1,0 +1,26 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.cache
+*.log
+
+# Paquetes NuGet
+packages/
+!packages/repositories.config
+
+# Cofiguración y archivos temporales
+*.pdb
+*.exe
+*.dll
+*.log
+*.tmp
+*.cache
+
+# Archivos de configuración sensibles
+appsettings.Development.json
+secrets.json
